@@ -6,5 +6,6 @@ void ECIAS::run()
 		this->window->clear(sf::Color::Black);
 		this->window->display();
 		this->handleEvents();
+		this->cleanSounds();
 	}
 }

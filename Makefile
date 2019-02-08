@@ -3,6 +3,8 @@ SRCFILES  = main.cpp \
 	    run.cpp \
 	    close.cpp \
 	    events.cpp \
+	    cleanSounds.cpp \
+	    Controller.cpp \
 
 SRCDIR   := src
 
